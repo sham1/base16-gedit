@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="apathy" name="Base16 Apathy" version="1.0">
+	<author>Jannik Siebert (https://github.com/janniks)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#031A16" />
+	<color name="base01" value="#0B342D" />
+	<color name="base02" value="#184E45" />
+	<color name="base03" value="#2B685E" />
+	<color name="base04" value="#5F9C92" />
+	<color name="base05" value="#81B5AC" />
+	<color name="base06" value="#A7CEC8" />
+	<color name="base07" value="#D2E7E4" />
+	<color name="base08" value="#3E9688" />
+	<color name="base09" value="#3E7996" />
+	<color name="base0A" value="#3E4C96" />
+	<color name="base0B" value="#883E96" />
+	<color name="base0C" value="#963E4C" />
+	<color name="base0D" value="#96883E" />
+	<color name="base0E" value="#4C963E" />
+	<color name="base0F" value="#3E965B" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

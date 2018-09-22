@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="brogrammer" name="Base16 Brogrammer" version="1.0">
+	<author>Vik Ramanujam (http://github.com/piggyslasher)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#1f1f1f" />
+	<color name="base01" value="#f81118" />
+	<color name="base02" value="#2dc55e" />
+	<color name="base03" value="#ecba0f" />
+	<color name="base04" value="#2a84d2" />
+	<color name="base05" value="#4e5ab7" />
+	<color name="base06" value="#1081d6" />
+	<color name="base07" value="#d6dbe5" />
+	<color name="base08" value="#d6dbe5" />
+	<color name="base09" value="#de352e" />
+	<color name="base0A" value="#1dd361" />
+	<color name="base0B" value="#f3bd09" />
+	<color name="base0C" value="#1081d6" />
+	<color name="base0D" value="#5350b9" />
+	<color name="base0E" value="#0f7ddb" />
+	<color name="base0F" value="#ffffff" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="phd" name="Base16 PhD" version="1.0">
+	<author>Hennig Hasemann (http://leetless.de/vim.html)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#061229" />
+	<color name="base01" value="#2a3448" />
+	<color name="base02" value="#4d5666" />
+	<color name="base03" value="#717885" />
+	<color name="base04" value="#9a99a3" />
+	<color name="base05" value="#b8bbc2" />
+	<color name="base06" value="#dbdde0" />
+	<color name="base07" value="#ffffff" />
+	<color name="base08" value="#d07346" />
+	<color name="base09" value="#f0a000" />
+	<color name="base0A" value="#fbd461" />
+	<color name="base0B" value="#99bf52" />
+	<color name="base0C" value="#72b9bf" />
+	<color name="base0D" value="#5299bf" />
+	<color name="base0E" value="#9989cc" />
+	<color name="base0F" value="#b08060" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

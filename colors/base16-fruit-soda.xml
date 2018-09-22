@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="fruit-soda" name="Base16 Fruit Soda" version="1.0">
+	<author>jozip</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#f1ecf1" />
+	<color name="base01" value="#e0dee0" />
+	<color name="base02" value="#d8d5d5" />
+	<color name="base03" value="#b5b4b6" />
+	<color name="base04" value="#979598" />
+	<color name="base05" value="#515151" />
+	<color name="base06" value="#474545" />
+	<color name="base07" value="#2d2c2c" />
+	<color name="base08" value="#fe3e31" />
+	<color name="base09" value="#fe6d08" />
+	<color name="base0A" value="#f7e203" />
+	<color name="base0B" value="#47f74c" />
+	<color name="base0C" value="#0f9cfd" />
+	<color name="base0D" value="#2931df" />
+	<color name="base0E" value="#611fce" />
+	<color name="base0F" value="#b16f40" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="atelier-savanna" name="Base16 Atelier Savanna" version="1.0">
+	<author>Bram de Haan (http://atelierbramdehaan.nl)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#171c19" />
+	<color name="base01" value="#232a25" />
+	<color name="base02" value="#526057" />
+	<color name="base03" value="#5f6d64" />
+	<color name="base04" value="#78877d" />
+	<color name="base05" value="#87928a" />
+	<color name="base06" value="#dfe7e2" />
+	<color name="base07" value="#ecf4ee" />
+	<color name="base08" value="#b16139" />
+	<color name="base09" value="#9f713c" />
+	<color name="base0A" value="#a07e3b" />
+	<color name="base0B" value="#489963" />
+	<color name="base0C" value="#1c9aa0" />
+	<color name="base0D" value="#478c90" />
+	<color name="base0E" value="#55859b" />
+	<color name="base0F" value="#867469" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

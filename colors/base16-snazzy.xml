@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="snazzy" name="Base16 Snazzy" version="1.0">
+	<author>Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#282a36" />
+	<color name="base01" value="#34353e" />
+	<color name="base02" value="#43454f" />
+	<color name="base03" value="#78787e" />
+	<color name="base04" value="#a5a5a9" />
+	<color name="base05" value="#e2e4e5" />
+	<color name="base06" value="#eff0eb" />
+	<color name="base07" value="#f1f1f0" />
+	<color name="base08" value="#ff5c57" />
+	<color name="base09" value="#ff9f43" />
+	<color name="base0A" value="#f3f99d" />
+	<color name="base0B" value="#5af78e" />
+	<color name="base0C" value="#9aedfe" />
+	<color name="base0D" value="#57c7ff" />
+	<color name="base0E" value="#ff6ac1" />
+	<color name="base0F" value="#b2643c" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="hopscotch" name="Base16 Hopscotch" version="1.0">
+	<author>Jan T. Sott</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#322931" />
+	<color name="base01" value="#433b42" />
+	<color name="base02" value="#5c545b" />
+	<color name="base03" value="#797379" />
+	<color name="base04" value="#989498" />
+	<color name="base05" value="#b9b5b8" />
+	<color name="base06" value="#d5d3d5" />
+	<color name="base07" value="#ffffff" />
+	<color name="base08" value="#dd464c" />
+	<color name="base09" value="#fd8b19" />
+	<color name="base0A" value="#fdcc59" />
+	<color name="base0B" value="#8fc13e" />
+	<color name="base0C" value="#149b93" />
+	<color name="base0D" value="#1290bf" />
+	<color name="base0E" value="#c85e7c" />
+	<color name="base0F" value="#b33508" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

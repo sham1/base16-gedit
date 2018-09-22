@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="atelier-forest-light" name="Base16 Atelier Forest Light" version="1.0">
+	<author>Bram de Haan (http://atelierbramdehaan.nl)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#f1efee" />
+	<color name="base01" value="#e6e2e0" />
+	<color name="base02" value="#a8a19f" />
+	<color name="base03" value="#9c9491" />
+	<color name="base04" value="#766e6b" />
+	<color name="base05" value="#68615e" />
+	<color name="base06" value="#2c2421" />
+	<color name="base07" value="#1b1918" />
+	<color name="base08" value="#f22c40" />
+	<color name="base09" value="#df5320" />
+	<color name="base0A" value="#c38418" />
+	<color name="base0B" value="#7b9726" />
+	<color name="base0C" value="#3d97b8" />
+	<color name="base0D" value="#407ee7" />
+	<color name="base0E" value="#6666ea" />
+	<color name="base0F" value="#c33ff3" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

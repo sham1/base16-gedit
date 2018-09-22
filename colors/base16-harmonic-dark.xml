@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="harmonic-dark" name="Base16 Harmonic16 Dark" version="1.0">
+	<author>Jannik Siebert (https://github.com/janniks)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#0b1c2c" />
+	<color name="base01" value="#223b54" />
+	<color name="base02" value="#405c79" />
+	<color name="base03" value="#627e99" />
+	<color name="base04" value="#aabcce" />
+	<color name="base05" value="#cbd6e2" />
+	<color name="base06" value="#e5ebf1" />
+	<color name="base07" value="#f7f9fb" />
+	<color name="base08" value="#bf8b56" />
+	<color name="base09" value="#bfbf56" />
+	<color name="base0A" value="#8bbf56" />
+	<color name="base0B" value="#56bf8b" />
+	<color name="base0C" value="#568bbf" />
+	<color name="base0D" value="#8b56bf" />
+	<color name="base0E" value="#bf568b" />
+	<color name="base0F" value="#bf5656" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

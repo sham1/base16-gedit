@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="embers" name="Base16 Embers" version="1.0">
+	<author>Jannik Siebert (https://github.com/janniks)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#16130F" />
+	<color name="base01" value="#2C2620" />
+	<color name="base02" value="#433B32" />
+	<color name="base03" value="#5A5047" />
+	<color name="base04" value="#8A8075" />
+	<color name="base05" value="#A39A90" />
+	<color name="base06" value="#BEB6AE" />
+	<color name="base07" value="#DBD6D1" />
+	<color name="base08" value="#826D57" />
+	<color name="base09" value="#828257" />
+	<color name="base0A" value="#6D8257" />
+	<color name="base0B" value="#57826D" />
+	<color name="base0C" value="#576D82" />
+	<color name="base0D" value="#6D5782" />
+	<color name="base0E" value="#82576D" />
+	<color name="base0F" value="#825757" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

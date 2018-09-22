@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="mocha" name="Base16 Mocha" version="1.0">
+	<author>Chris Kempson (http://chriskempson.com)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#3B3228" />
+	<color name="base01" value="#534636" />
+	<color name="base02" value="#645240" />
+	<color name="base03" value="#7e705a" />
+	<color name="base04" value="#b8afad" />
+	<color name="base05" value="#d0c8c6" />
+	<color name="base06" value="#e9e1dd" />
+	<color name="base07" value="#f5eeeb" />
+	<color name="base08" value="#cb6077" />
+	<color name="base09" value="#d28b71" />
+	<color name="base0A" value="#f4bc87" />
+	<color name="base0B" value="#beb55b" />
+	<color name="base0C" value="#7bbda4" />
+	<color name="base0D" value="#8ab3b5" />
+	<color name="base0E" value="#a89bb9" />
+	<color name="base0F" value="#bb9584" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

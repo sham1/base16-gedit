@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="brewer" name="Base16 Brewer" version="1.0">
+	<author>Timothée Poisot (http://github.com/tpoisot)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#0c0d0e" />
+	<color name="base01" value="#2e2f30" />
+	<color name="base02" value="#515253" />
+	<color name="base03" value="#737475" />
+	<color name="base04" value="#959697" />
+	<color name="base05" value="#b7b8b9" />
+	<color name="base06" value="#dadbdc" />
+	<color name="base07" value="#fcfdfe" />
+	<color name="base08" value="#e31a1c" />
+	<color name="base09" value="#e6550d" />
+	<color name="base0A" value="#dca060" />
+	<color name="base0B" value="#31a354" />
+	<color name="base0C" value="#80b1d3" />
+	<color name="base0D" value="#3182bd" />
+	<color name="base0E" value="#756bb1" />
+	<color name="base0F" value="#b15928" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

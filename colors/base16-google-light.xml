@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="google-light" name="Base16 Google Light" version="1.0">
+	<author>Seth Wright (http://sethawright.com)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#ffffff" />
+	<color name="base01" value="#e0e0e0" />
+	<color name="base02" value="#c5c8c6" />
+	<color name="base03" value="#b4b7b4" />
+	<color name="base04" value="#969896" />
+	<color name="base05" value="#373b41" />
+	<color name="base06" value="#282a2e" />
+	<color name="base07" value="#1d1f21" />
+	<color name="base08" value="#CC342B" />
+	<color name="base09" value="#F96A38" />
+	<color name="base0A" value="#FBA922" />
+	<color name="base0B" value="#198844" />
+	<color name="base0C" value="#3971ED" />
+	<color name="base0D" value="#3971ED" />
+	<color name="base0E" value="#A36AC7" />
+	<color name="base0F" value="#3971ED" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

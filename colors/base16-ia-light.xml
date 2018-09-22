@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="ia-light" name="Base16 iA Light" version="1.0">
+	<author>iA Inc. (modified by aramisgithub)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#f6f6f6" />
+	<color name="base01" value="#dedede" />
+	<color name="base02" value="#bde5f2" />
+	<color name="base03" value="#898989" />
+	<color name="base04" value="#767676" />
+	<color name="base05" value="#181818" />
+	<color name="base06" value="#e8e8e8" />
+	<color name="base07" value="#f8f8f8" />
+	<color name="base08" value="#9c5a02" />
+	<color name="base09" value="#c43e18" />
+	<color name="base0A" value="#c48218" />
+	<color name="base0B" value="#38781c" />
+	<color name="base0C" value="#2d6bb1" />
+	<color name="base0D" value="#48bac2" />
+	<color name="base0E" value="#a94598" />
+	<color name="base0F" value="#8b6c37" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

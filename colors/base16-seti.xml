@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="seti" name="Base16 Seti UI" version="1.0">
+	<author></author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#151718" />
+	<color name="base01" value="#282a2b" />
+	<color name="base02" value="#3B758C" />
+	<color name="base03" value="#41535B" />
+	<color name="base04" value="#43a5d5" />
+	<color name="base05" value="#d6d6d6" />
+	<color name="base06" value="#eeeeee" />
+	<color name="base07" value="#ffffff" />
+	<color name="base08" value="#Cd3f45" />
+	<color name="base09" value="#db7b55" />
+	<color name="base0A" value="#e6cd69" />
+	<color name="base0B" value="#9fca56" />
+	<color name="base0C" value="#55dbbe" />
+	<color name="base0D" value="#55b5db" />
+	<color name="base0E" value="#a074c4" />
+	<color name="base0F" value="#8a553f" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

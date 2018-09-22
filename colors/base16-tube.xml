@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="tube" name="Base16 London Tube" version="1.0">
+	<author>Jan T. Sott</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#231f20" />
+	<color name="base01" value="#1c3f95" />
+	<color name="base02" value="#5a5758" />
+	<color name="base03" value="#737171" />
+	<color name="base04" value="#959ca1" />
+	<color name="base05" value="#d9d8d8" />
+	<color name="base06" value="#e7e7e8" />
+	<color name="base07" value="#ffffff" />
+	<color name="base08" value="#ee2e24" />
+	<color name="base09" value="#f386a1" />
+	<color name="base0A" value="#ffd204" />
+	<color name="base0B" value="#00853e" />
+	<color name="base0C" value="#85cebc" />
+	<color name="base0D" value="#009ddc" />
+	<color name="base0E" value="#98005d" />
+	<color name="base0F" value="#b06110" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

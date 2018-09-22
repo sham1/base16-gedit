@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="gruvbox-dark-pale" name="Base16 Gruvbox dark, pale" version="1.0">
+	<author>Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#262626" />
+	<color name="base01" value="#3a3a3a" />
+	<color name="base02" value="#4e4e4e" />
+	<color name="base03" value="#8a8a8a" />
+	<color name="base04" value="#949494" />
+	<color name="base05" value="#dab997" />
+	<color name="base06" value="#d5c4a1" />
+	<color name="base07" value="#ebdbb2" />
+	<color name="base08" value="#d75f5f" />
+	<color name="base09" value="#ff8700" />
+	<color name="base0A" value="#ffaf00" />
+	<color name="base0B" value="#afaf00" />
+	<color name="base0C" value="#85ad85" />
+	<color name="base0D" value="#83adad" />
+	<color name="base0E" value="#d485ad" />
+	<color name="base0F" value="#d65d0e" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

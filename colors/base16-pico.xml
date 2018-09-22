@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="pico" name="Base16 Pico" version="1.0">
+	<author>PICO-8 (http://www.lexaloffle.com/pico-8.php)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#000000" />
+	<color name="base01" value="#1d2b53" />
+	<color name="base02" value="#7e2553" />
+	<color name="base03" value="#008751" />
+	<color name="base04" value="#ab5236" />
+	<color name="base05" value="#5f574f" />
+	<color name="base06" value="#c2c3c7" />
+	<color name="base07" value="#fff1e8" />
+	<color name="base08" value="#ff004d" />
+	<color name="base09" value="#ffa300" />
+	<color name="base0A" value="#fff024" />
+	<color name="base0B" value="#00e756" />
+	<color name="base0C" value="#29adff" />
+	<color name="base0D" value="#83769c" />
+	<color name="base0E" value="#ff77a8" />
+	<color name="base0F" value="#ffccaa" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

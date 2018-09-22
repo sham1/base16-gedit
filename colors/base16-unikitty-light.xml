@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="unikitty-light" name="Base16 Unikitty Light" version="1.0">
+	<author>Josh W Lewis (@joshwlewis)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#ffffff" />
+	<color name="base01" value="#e1e1e2" />
+	<color name="base02" value="#c4c3c5" />
+	<color name="base03" value="#a7a5a8" />
+	<color name="base04" value="#89878b" />
+	<color name="base05" value="#6c696e" />
+	<color name="base06" value="#4f4b51" />
+	<color name="base07" value="#322d34" />
+	<color name="base08" value="#d8137f" />
+	<color name="base09" value="#d65407" />
+	<color name="base0A" value="#dc8a0e" />
+	<color name="base0B" value="#17ad98" />
+	<color name="base0C" value="#149bda" />
+	<color name="base0D" value="#775dff" />
+	<color name="base0E" value="#aa17e6" />
+	<color name="base0F" value="#e013d0" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

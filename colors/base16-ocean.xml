@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="ocean" name="Base16 Ocean" version="1.0">
+	<author>Chris Kempson (http://chriskempson.com)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#2b303b" />
+	<color name="base01" value="#343d46" />
+	<color name="base02" value="#4f5b66" />
+	<color name="base03" value="#65737e" />
+	<color name="base04" value="#a7adba" />
+	<color name="base05" value="#c0c5ce" />
+	<color name="base06" value="#dfe1e8" />
+	<color name="base07" value="#eff1f5" />
+	<color name="base08" value="#bf616a" />
+	<color name="base09" value="#d08770" />
+	<color name="base0A" value="#ebcb8b" />
+	<color name="base0B" value="#a3be8c" />
+	<color name="base0C" value="#96b5b4" />
+	<color name="base0D" value="#8fa1b3" />
+	<color name="base0E" value="#b48ead" />
+	<color name="base0F" value="#ab7967" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

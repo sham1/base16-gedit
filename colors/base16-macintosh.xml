@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="macintosh" name="Base16 Macintosh" version="1.0">
+	<author>Rebecca Bettencourt (http://www.kreativekorp.com)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#000000" />
+	<color name="base01" value="#404040" />
+	<color name="base02" value="#404040" />
+	<color name="base03" value="#808080" />
+	<color name="base04" value="#808080" />
+	<color name="base05" value="#c0c0c0" />
+	<color name="base06" value="#c0c0c0" />
+	<color name="base07" value="#ffffff" />
+	<color name="base08" value="#dd0907" />
+	<color name="base09" value="#ff6403" />
+	<color name="base0A" value="#fbf305" />
+	<color name="base0B" value="#1fb714" />
+	<color name="base0C" value="#02abea" />
+	<color name="base0D" value="#0000d3" />
+	<color name="base0E" value="#4700a5" />
+	<color name="base0F" value="#90713a" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

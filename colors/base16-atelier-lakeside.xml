@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="atelier-lakeside" name="Base16 Atelier Lakeside" version="1.0">
+	<author>Bram de Haan (http://atelierbramdehaan.nl)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#161b1d" />
+	<color name="base01" value="#1f292e" />
+	<color name="base02" value="#516d7b" />
+	<color name="base03" value="#5a7b8c" />
+	<color name="base04" value="#7195a8" />
+	<color name="base05" value="#7ea2b4" />
+	<color name="base06" value="#c1e4f6" />
+	<color name="base07" value="#ebf8ff" />
+	<color name="base08" value="#d22d72" />
+	<color name="base09" value="#935c25" />
+	<color name="base0A" value="#8a8a0f" />
+	<color name="base0B" value="#568c3b" />
+	<color name="base0C" value="#2d8f6f" />
+	<color name="base0D" value="#257fad" />
+	<color name="base0E" value="#6b6bb8" />
+	<color name="base0F" value="#b72dd2" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

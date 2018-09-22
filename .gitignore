@@ -1,0 +1,7 @@
+schemes
+sources
+sources.yaml
+templates/*
+
+!templates/config.yaml
+!templates/default.mustache

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="xcode-dusk" name="Base16 XCode Dusk" version="1.0">
+	<author>Elsa Gonsiorowski (https://github.com/gonsie)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#282B35" />
+	<color name="base01" value="#3D4048" />
+	<color name="base02" value="#53555D" />
+	<color name="base03" value="#686A71" />
+	<color name="base04" value="#7E8086" />
+	<color name="base05" value="#939599" />
+	<color name="base06" value="#A9AAAE" />
+	<color name="base07" value="#BEBFC2" />
+	<color name="base08" value="#B21889" />
+	<color name="base09" value="#786DC5" />
+	<color name="base0A" value="#438288" />
+	<color name="base0B" value="#DF0002" />
+	<color name="base0C" value="#00A0BE" />
+	<color name="base0D" value="#790EAD" />
+	<color name="base0E" value="#B21889" />
+	<color name="base0F" value="#C77C48" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

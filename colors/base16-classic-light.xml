@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="classic-light" name="Base16 Classic Light" version="1.0">
+	<author>Jason Heeris (http://heeris.id.au)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#F5F5F5" />
+	<color name="base01" value="#E0E0E0" />
+	<color name="base02" value="#D0D0D0" />
+	<color name="base03" value="#B0B0B0" />
+	<color name="base04" value="#505050" />
+	<color name="base05" value="#303030" />
+	<color name="base06" value="#202020" />
+	<color name="base07" value="#151515" />
+	<color name="base08" value="#AC4142" />
+	<color name="base09" value="#D28445" />
+	<color name="base0A" value="#F4BF75" />
+	<color name="base0B" value="#90A959" />
+	<color name="base0C" value="#75B5AA" />
+	<color name="base0D" value="#6A9FB5" />
+	<color name="base0E" value="#AA759F" />
+	<color name="base0F" value="#8F5536" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

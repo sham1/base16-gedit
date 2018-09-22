@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="codeschool" name="Base16 Codeschool" version="1.0">
+	<author>blockloop</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#232c31" />
+	<color name="base01" value="#1c3657" />
+	<color name="base02" value="#2a343a" />
+	<color name="base03" value="#3f4944" />
+	<color name="base04" value="#84898c" />
+	<color name="base05" value="#9ea7a6" />
+	<color name="base06" value="#a7cfa3" />
+	<color name="base07" value="#b5d8f6" />
+	<color name="base08" value="#2a5491" />
+	<color name="base09" value="#43820d" />
+	<color name="base0A" value="#a03b1e" />
+	<color name="base0B" value="#237986" />
+	<color name="base0C" value="#b02f30" />
+	<color name="base0D" value="#484d79" />
+	<color name="base0E" value="#c59820" />
+	<color name="base0F" value="#c98344" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>

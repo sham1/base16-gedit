@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="atelier-sulphurpool" name="Base16 Atelier Sulphurpool" version="1.0">
+	<author>Bram de Haan (http://atelierbramdehaan.nl)</author>
+	
+	<!-- Scheme colors -->
+	<color name="base00" value="#202746" />
+	<color name="base01" value="#293256" />
+	<color name="base02" value="#5e6687" />
+	<color name="base03" value="#6b7394" />
+	<color name="base04" value="#898ea4" />
+	<color name="base05" value="#979db4" />
+	<color name="base06" value="#dfe2f1" />
+	<color name="base07" value="#f5f7ff" />
+	<color name="base08" value="#c94922" />
+	<color name="base09" value="#c76b29" />
+	<color name="base0A" value="#c08b30" />
+	<color name="base0B" value="#ac9739" />
+	<color name="base0C" value="#22a2c9" />
+	<color name="base0D" value="#3d8fd1" />
+	<color name="base0E" value="#6679cc" />
+	<color name="base0F" value="#9c637a" />
+	
+	<style name="text" foreground="base05" background="base00" />
+	<style name="selection" background="base02" />
+	<style name="cursor" foreground="base05" background="base05" />
+	<style name="current-line" foreground="base03" background="base01" />
+	<style name="line-numbers" foreground="base04" background="base01" />
+	<style name="bracket-match" foreground="base08" background="base00" />
+	<style name="search-match" foreground="base02" background="base0A" />
+	
+	<style name="def:function" foreground="base0D" />
+	<style name="def:identifier" foreground="base08" />
+	<style name="def:keyword" foreground="base0E" />
+	<style name="def:number" foreground="base09" />
+	<style name="def:boolean" foreground="base09" />
+	<style name="def:string" foreground="base0B" />
+	<style name="def:special-char" foreground="base0C" />
+	<style name="def:builtin" foreground="base0C" />
+	<style name="def:type" foreground="base0A" />
+	<style name="def:preprocessor" foreground="" />
+	<style name="def:comment" foreground="base03" />
+</style-scheme>
